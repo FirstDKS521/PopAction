@@ -12,3 +12,4 @@ https://github.com/onegray/UIViewController-BackButtonHandler
 ```
 - (BOOL)navigationShouldPopOnBackButton;
 ```
+[简书地址](http://www.jianshu.com/p/90a104ac6633)

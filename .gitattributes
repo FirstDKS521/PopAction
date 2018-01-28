@@ -1,1 +1,2 @@
-*.Ruby linguist-language=Objective-C
+*.h linguist-language=Objective-C
+*.m linguist-language=Objective-C
